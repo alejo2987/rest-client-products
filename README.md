@@ -20,6 +20,7 @@ CREATE TABLE productos (
 ### 4. Arrancar el servidor ejecutando npm start
 
 ### 5. Hacer peticion post a http://localhost:3000/productos
+
 Body json
 {
     "nombre": "Laptop",
